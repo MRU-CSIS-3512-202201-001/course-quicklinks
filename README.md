@@ -5,3 +5,4 @@
 - [Possibly Useful Learning Resources](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/learning-resource-list.md)
 - [UNOFFICIAL Course Outline](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/README.md)
 - [Tutorial Instructions & Links](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/tutorials.md)
+- [Screencasts](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/screencasts.md)
