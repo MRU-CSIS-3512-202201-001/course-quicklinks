@@ -4,6 +4,7 @@
 
 - [Lecture Google Meet Link](http://bit.ly/comp3512-w22-lecture)
 - [JP's Slide Decks](https://slides.com/jpratt-mru)
+- [Lecture Code](https://github.com/MRU-CSIS-3512-202201-001/lecture-code)
 
 ## Tutorials
 
