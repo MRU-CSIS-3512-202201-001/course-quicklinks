@@ -14,6 +14,10 @@
 
 - [Assignment 1 Instructions](https://github.com/MRU-CSIS-3512-202201-001/asg-01-instructions)
 
+## Quizzes
+
+- [coding quizzes](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/coding-quiz-links.md)
+
 ## Keeping On Track
 
 - [3512 Dates & Deadlines - Calendar Form](https://docs.google.com/spreadsheets/d/1Q83dl7oYveLQAU1EFh4YaBsy2sKJGN4NHb6XcikW68w/edit?usp=sharing)
