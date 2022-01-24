@@ -16,7 +16,7 @@
 
 ## Quizzes
 
-- [coding quizzes](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/coding-quiz-links.md)
+- [Coding quizzes](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/coding-quiz-links.md)
 
 ## Keeping On Track
 
