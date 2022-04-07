@@ -1,5 +1,11 @@
 # Quick Links
 
+
+## Final Exam
+
+- [Coding Portion Preview](https://classroom.github.com/a/EaRxXiys)
+
+
 ## Lectures
 
 - [Lecture Google Meet Link](http://bit.ly/comp3512-w22-lecture)
